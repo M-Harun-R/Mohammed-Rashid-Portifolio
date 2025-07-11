@@ -63,6 +63,7 @@ Licensed under the **MIT License**. Feel free to reuse and adapt with attributio
 ---
 
 ## 📫 Contact
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-- [Portfolio](https://your-username.github.io)
+- [LinkedIn](https://www.linkedin.com/in/mohammed-harunul-rashid-9a820a266/)
+  mh.rashid@huntertutoring.co.uk
+
 
