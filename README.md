@@ -21,14 +21,14 @@ Created a Google Sheets dashboard with formulas and conditional highlights that:
 
 | Dashboard Overview | Incomplete Log Flag |
 |--------------------|---------------------|
-| ![Dashboard](TL%20flagged%20dashboard.png) | ![Empty Log](TL%20flagged%20empty%20log.png) |
+| (![Dashboard](TL-flagged-dashboard.png)) | ![Empty Log](TL-flagged-empty-log.png) |
 
 ### Additional Views
 
-- ![Snapshot](tutor%20log%20snapshot.png)  
+- ![Snapshot](tutor-log-snapshot.png)  
   *Live snapshot of tutor logs across classes*
 
-- ![Overview](Tutor%20dashboard%20overview.png)  
+- ![Overview](Tutor-dashboard-overview.png)  
   *Full dashboard view highlighting lesson completion and admin insights*
 
 ## ✅ Impact
