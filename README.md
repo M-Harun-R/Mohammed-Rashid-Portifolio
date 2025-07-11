@@ -17,19 +17,22 @@ Created a Google Sheets dashboard with formulas and conditional highlights that:
 
 ...
 
-## 📷 Screenshots
+## 📸 Screenshots
 
-| Dashboard Overview | Incomplete Log Flag |
-|--------------------|---------------------|
-| (![Dashboard](TL-flagged-dashboard.png)) | ![Empty Log](TL-flagged-empty-log.png) |
+| Dashboard Overview | Flagged Incomplete Log |
+|--------------------|------------------------|
+| ![Dashboard](screenshots/TL%20flagged%20dashboard.png) | ![Empty Log](screenshots/TL%20flagged%20empty%20log.png) |
 
-### Additional Views
+---
 
-- ![Snapshot](tutor-log-snapshot.png)  
-  *Live snapshot of tutor logs across classes*
+### 📊 Additional Views
 
-- ![Overview](Tutor-dashboard-overview.png)  
-  *Full dashboard view highlighting lesson completion and admin insights*
+**Tutor Dashboard Overview**  
+![Tutor Overview](screenshots/Tutor%20dashboard%20overview.png)
+
+**Tutor Log Snapshot**  
+![Snapshot](screenshots/tutor%20log%20snapshot.png)
+
 
 ## ✅ Impact
 
