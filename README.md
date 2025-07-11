@@ -13,6 +13,28 @@ Created a Google Sheets dashboard with formulas and conditional highlights that:
 - Uses color-coded alerts (🟥 overdue, 🟨 due soon, ✅ up to date)
 - Provides visual summary for management weekly checks
 
+## 🔍 Features
+
+...
+
+## 📷 Screenshots
+
+| Dashboard Overview | Incomplete Log Flag |
+|--------------------|---------------------|
+| ![Dashboard](TL%20flagged%20dashboard.png) | ![Empty Log](TL%20flagged%20empty%20log.png) |
+
+### Additional Views
+
+- ![Snapshot](tutor%20log%20snapshot.png)  
+  *Live snapshot of overall tutor log activity*
+
+- ![Overview](Tutor%20dashboard%20overview.png)  
+  *Full dashboard overview with multiple lesson log views*
+
+## ✅ Impact
+
+...
+
 ---
 
 ## 📊 Impact
